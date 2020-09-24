@@ -1,0 +1,1 @@
+This is a KnightRider Custom Control with customizable Back- and ForeColors, Size, Speed, and Effect. The appearance and effects can be viewed in the IDE; that is it is already active in Design Mode :- just set the Enabled-property to True. It was inspired by a previous submission to PSC.
